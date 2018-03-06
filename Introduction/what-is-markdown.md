@@ -60,3 +60,4 @@ And here is the equivalent in Markdown:
 
     This paragraph belongs to item two of the outer list.
 ```
+The AsciiDoc version is, arguably, easier to write. You don’t need to worry about indentation. But the Markdown version is much easier to read. The nesting of list items is apparent to the eye in the source, not just in the processed document.
