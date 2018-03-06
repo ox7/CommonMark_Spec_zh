@@ -11,3 +11,5 @@
 空白字符：space、tab、newline、line tabulation、form feed、or carriage return。
 
 空白：由一个或者多个空白字符组成的序列。
+
+空格：```U+0020```
