@@ -1,1 +1,0 @@
-## 1.2 Why is a spec needed?
