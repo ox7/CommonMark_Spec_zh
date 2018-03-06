@@ -1,6 +1,6 @@
 # Table of content
 
-* [First Chapter](Introduction.md)
+* [Introduction](Introduction.md)
 
 
 
