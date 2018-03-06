@@ -1,6 +1,4 @@
-# Table of content
+# Summary
 
 * [Introduction](Introduction.md)
-
-
 
